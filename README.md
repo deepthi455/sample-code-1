@@ -2,4 +2,4 @@
 
 # sample-code
 
-This repository contains sample applications which are used mostly by appium functional tests.
+This repository contains sample applications which are used mostly by functional tests.
