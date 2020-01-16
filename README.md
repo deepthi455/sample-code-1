@@ -1,4 +1,4 @@
-**Refer https://github.com/appium/appium/tree/master/sample-code instead of this repository**
+
 
 # sample-code
 
